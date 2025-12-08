@@ -1,0 +1,26 @@
+{
+  "name": "atv2ppi",
+  "version": "1.0.0",
+  "description": "Metodo post",
+  "main": "index.js",
+  "type": "module",
+  "homepage": "https://github.com/ffrancielicaldeirao/Atv2PPI#readme",
+  "bugs": {
+    "url": "https://github.com/ffrancielicaldeirao/Atv2PPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffrancielicaldeirao/Atv2PPI.git"
+  },
+  "license": "ISC",
+  "author": "Francieli Caldeirao",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "express-session": "^1.18.2"
+  }
+}
